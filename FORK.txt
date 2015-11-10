@@ -4,4 +4,5 @@
  *to update your clone,
 	git fetch upstream
 	git merge upstream/master
+	git rebase upstream/master
 4. Create pull request.	
