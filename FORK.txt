@@ -1,0 +1,7 @@
+1. Fork
+2. Clone
+3. git remote add upstream https://github.com/<username>/<originalrepo>
+ *to update your clone,
+	git fetch upstream
+	git merge upstream/master
+4. Create pull request.	
